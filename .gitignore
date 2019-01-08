@@ -1,0 +1,15 @@
+static
+static/*
+*.log
+example/*.log
+*.sock
+example/*.sock
+*.pyc
+__pycache__
+.coverage
+*.db
+.DS_Store
+migrations/
+.idea/*
+
+
